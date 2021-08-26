@@ -25,14 +25,21 @@
   <img  src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/3549beaae0ba185e62d53e57144caa0d.gif" alt=animated />
 </p>
 
-<table width"100">
-  <tr>
-    <td><img  src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/3549beaae0ba185e62d53e57144caa0d.gif" alt=animated /></td>
-    <td><img  src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/3549beaae0ba185e62d53e57144caa0d.gif" alt=animated /></td>
-  <tr>
-</table>
-  
+<p align="center">
+  <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated  hspace="190"/>
 </p>
+  
+<p align="center">
+  <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated  hspace="190"/>
+</p>
+
+
+
+  
+
+
+
+
 
 
 
