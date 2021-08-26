@@ -26,11 +26,15 @@
 </p>
 
 <p align="center">
-  <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated  hspace="190"/>
+  <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/Animated%20gif%20about%20gif%20in%20resources_%20by%20J9Y%20LOVES%20Y%E2%98%86U.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/Animated%20gif%20about%20gif%20in%20resources_%20by%20J9Y%20LOVES%20Y%E2%98%86U.gif" alt=animated  hspace="190"/>
 </p>
   
 <p align="center">
   <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/descarga.gif" alt=animated  hspace="190"/>
+</p>
+
+<p align="center">
+  <img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/Animated%20gif%20about%20gif%20in%20resources_%20by%20J9Y%20LOVES%20Y%E2%98%86U.gif" alt=animated hspace="190"/><img width="100" height="113" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/raw/main/Animated%20gif%20about%20gif%20in%20resources_%20by%20J9Y%20LOVES%20Y%E2%98%86U.gif" alt=animated  hspace="190"/>
 </p>
 
 
