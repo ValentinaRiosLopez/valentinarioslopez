@@ -1,6 +1,5 @@
-<div style= "backgroun-color:black">
-  <div align=center>
-    <pre style= "backgroun-color:black">
+<div>
+    <p style="white-space: pre;">
       ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
     𝚅𝚊𝚕𝚎𝚗𝚝𝚒𝚗𝚊
     𝚁𝚒𝚘𝚜 𝙻𝚘𝚙𝚎𝚣
@@ -16,7 +15,7 @@
     　 ˚ * .
     　 　　 *　　 * ⋆ 　 .
     · 　　 ⋆ 　　　 ˚ ˚ 　　 ✦
-    ✩｡:*•.─────  ❁ ❁  ─────.•*:｡✩</pre>
+    ✩｡:*•.─────  ❁ ❁  ─────.•*:｡✩</p>
   </div>
 
   <div align = auto>
