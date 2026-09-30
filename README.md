@@ -17,36 +17,31 @@
 ✩｡:*•.─────  ❁ ❁  ─────.•*:｡✩
 </pre>
 
-<div align="center">
-  <img
-    width="190"
-    height="216"
-    src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif1.gif"
-    alt="animated gif"
-  />
-
-  <img
-    width="190"
-    height="216"
-    src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif2.gif"
-    alt="animated gif"
-  />
-
-  <img
-    width="190"
-    height="216"
-    src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif1.gif"
-    alt="animated gif"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="190" height="216"
+           src="https://raw.githubusercontent.com/ValentinaRiosLopez/valentinarioslopez/main/gif1.gif"
+           alt="animated gif">
+    </td>
+    <td align="center">
+      <img width="190" height="216"
+           src="https://raw.githubusercontent.com/ValentinaRiosLopez/valentinarioslopez/main/gif2.gif"
+           alt="animated gif">
+    </td>
+    <td align="center">
+      <img width="190" height="216"
+           src="https://raw.githubusercontent.com/ValentinaRiosLopez/valentinarioslopez/main/gif1.gif"
+           alt="animated gif">
+    </td>
+  </tr>
+</table>
 
 <pre>
 ✩｡:*•.─────  ❁ ❁  ─────.•*:｡✩
 </pre>
 
 </div>
-
-
 
 
   
