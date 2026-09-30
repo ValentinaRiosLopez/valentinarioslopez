@@ -17,7 +17,7 @@
     　 　　 *　　 * ⋆ 　 .
     · 　　 ⋆ 　　　 ˚ ˚ 　　 ✦
     ✩｡:*•.─────  ❁ ❁  ─────.•*:｡✩ </pre>
-    <div align=auto>
+    <div align=center>
       <img width="190" height="216" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif1.gif" alt=animated hspace="150"/><img width="190" height="216" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif2.gif" alt=animated  hspace="150" margin="auto"/>
       <img width="190" height="216" src="https://github.com/ValentinaRiosLopez/valentinarioslopez/blob/main/gif1.gif" alt=animated hspace="150"/>
     </div>
