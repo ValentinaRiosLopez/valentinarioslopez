@@ -1,6 +1,6 @@
 <div style= "backgroun-color:black">
   <div align=center>
-    <pre>
+    <pre style= "backgroun-color:black">
       ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
     𝚅𝚊𝚕𝚎𝚗𝚝𝚒𝚗𝚊
     𝚁𝚒𝚘𝚜 𝙻𝚘𝚙𝚎𝚣
